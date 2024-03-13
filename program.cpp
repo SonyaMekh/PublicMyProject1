@@ -6,4 +6,6 @@ int main()
 {
 cout << MySum(10, 3) << endl;
 cout << MySub(10, 3) << endl;
-r
+system("pause");
+return 0;
+}
